@@ -1,5 +1,10 @@
 # EMtools
+
 A collection of useful tools for Windows users, made via Windows Forms, for Hedgehog engine tools, and tools for Windows that make manual work automated.
+
+![.NET](https://img.shields.io/badge/.NET-9.0-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Features
 
@@ -90,6 +95,10 @@ EMtools/
     └── BatchToolsForm.cs    # Batch file tools
 ```
 
+## Contributing
+
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
+
 ## License
 
-This project is open source and available for personal and commercial use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
